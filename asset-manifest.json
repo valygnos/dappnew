@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dappnew/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dappnew/static/js/main.1e857fca.chunk.js",
+    "main.js.map": "/dappnew/static/js/main.1e857fca.chunk.js.map",
+    "runtime-main.js": "/dappnew/static/js/runtime-main.5caa8c20.js",
+    "runtime-main.js.map": "/dappnew/static/js/runtime-main.5caa8c20.js.map",
+    "static/js/2.184f034c.chunk.js": "/dappnew/static/js/2.184f034c.chunk.js",
+    "static/js/2.184f034c.chunk.js.map": "/dappnew/static/js/2.184f034c.chunk.js.map",
+    "index.html": "/dappnew/index.html",
+    "precache-manifest.e3ab93c4f991253b8ac37d9c4f72c3e4.js": "/dappnew/precache-manifest.e3ab93c4f991253b8ac37d9c4f72c3e4.js",
+    "service-worker.js": "/dappnew/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dappnew/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5caa8c20.js",
+    "static/js/2.184f034c.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1e857fca.chunk.js"
+  ]
+}
